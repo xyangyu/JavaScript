@@ -1,4 +1,4 @@
 JavaScript
 ==========
 
-JavaScript basics
+JavaScript basics from Good parts/Bad parts
