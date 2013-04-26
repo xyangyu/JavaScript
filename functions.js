@@ -6,3 +6,5 @@ Foo.prototype.getName = function (){
 
   return this.name;
 }
+
+var myFoo = new Foo("edmon")
